@@ -6,12 +6,13 @@ using namespace std;
 //==========
 int main()
 {
+
    cout<<"Cake is TRUTH"<<endl;
    
    bool flag=false;
    int temp=0, num=0;
    string inpt;
-   
+
    while(!flag)
    {
       cin>>inpt;
