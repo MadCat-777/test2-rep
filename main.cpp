@@ -79,6 +79,8 @@ int main()
    
    int outp = stoi(inpt);
    
+   outp+=7;
+   
    cout<<outp<<endl;
    
    return 0;
